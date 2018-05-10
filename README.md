@@ -1,2 +1,2 @@
-# dApp sample
-simple dApp example with coinstack sdk
+# smart oracle sample
+simple smart oracle example
